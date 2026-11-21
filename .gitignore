@@ -1,0 +1,16 @@
+/config/local.json
+/PROJECT_MEMORY.md
+*.log
+logs/
+state/
+*.state
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+*.tmp
+*.temp
+*.bak
